@@ -1,0 +1,44 @@
+   
+[
+    {
+        "commentaire":"Ce fichier est un exemple d'une réponse JSON de l'api /commandes_en_attente.php"
+    },
+    {
+        "idCommande":1,
+        "etatCommande":0,
+        "totalCommandeTTC":35.5,
+        "typeCommande":"Sur place",
+        "dateCommande":"2024-10-03",
+        "heureCommande":"12:30:00",
+        "idUtilisateur":1,
+        "lignesCommande":[
+            {"idCom":1,"idProduit":1,"qteLigne":2,"totalLigneHT":"17.00"},
+            {"idCom":1,"idProduit":3,"qteLigne":1,"totalLigneHT":"6.80"}
+        ]
+    },
+    {
+        "idCommande":3,
+        "etatCommande":0,
+        "totalCommandeTTC":42.8,
+        "typeCommande":"Sur place",
+        "dateCommande":"2024-10-02",
+        "heureCommande":"14:00:00",
+        "idUtilisateur":1,
+        "lignesCommande":[
+            {"idCom":3,"idProduit":1,"qteLigne":3,"totalLigneHT":"25.50"},
+            {"idCom":3,"idProduit":2,"qteLigne":2,"totalLigneHT":"14.40"}
+        ]
+    },
+    {
+        "idCommande":6,
+        "etatCommande":0,
+        "totalCommandeTTC":18.7,
+        "typeCommande":"Sur place",
+        "dateCommande":"2024-11-21",
+        "heureCommande":"00:03:35",
+        "idUtilisateur":1,
+        "lignesCommande":[
+            {"idCom":6,"idProduit":1,"qteLigne":2,"totalLigneHT":"17.00"}
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+- Changer Dollars en Euros
+
+- Changer les status de la commande (string) en nombre (int) et faire une liaison entre les 2 dans le front
+
+- Faire une script d'installation de la base SQL complete (script + données + triggers) mais garder tous les
+script indépendants quand meme.
+
+- Déplacer les consignes d'install dans le README
+
+- Patch les liens dynamiques avec les consignes des fiches de retours sur les lot 3/4, pour faciliter l'installation.
+
+- (Ajouter des photos ou un trucs plus sympa dans les cartes des plats)
+
+========================================================================================================================================
+
+- Faire les APIs et verifier leur fonctionnement
+
+- Commenter un peu plus le code
+
+- (Essayer d'utiliser des classes ou des interfaces pour les commandes pour simplifier le traitement)
+
+- (Faire une DAO avec des méthodes qui appelle les différents API des commandes)

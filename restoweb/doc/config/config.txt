@@ -1,0 +1,24 @@
+Merci d'avoir pris le temps de lire ce fichier, il vous évitera de nombreux soucis.
+
+======================================  INSTALLATION  ======================================
+
+1 // Vous devez installer le dossier "restoweb" suivant l'arborescence suivante :
+    "\xampp\htdocs\projets\RestoWeb\restoweb" à la racine de votre disque dur.
+    Si vous importez le dossier GitHub défnissez le dossier "RestoWeb" comme destination du répertoire.
+
+2 // Ensuite, créez la base de données SQL, le script de la base vide est disponible dans le dossier 
+    "sql\db_script\db_empty_script.sql" du projet.
+
+3 // Ajouter les scripts de trigger dans la base de données SQL, le script de trigger est disponible dans le dossier 
+    "sql\trigger_script" du projet.
+
+4 // Fournissez la base de données SQL avec les scripts de données fourni dans le dossier "sql\db_script" du projet.
+
+5 // L'utilisateur pour la démonstration est "test" avec le mot de passe "test".
+
+
+======================================  UTILISATION  ======================================
+
+3 // Assurez-vous que vous avez bien lancé un serveur Local et que votre base de données est bien créée
+    et accessible.
+
